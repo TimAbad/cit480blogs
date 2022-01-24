@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Weekly Blogs CIT480 | Fall 2021
+title: Weekly Blogs CIT481 | Spring 2022
 email: timothy.abad.611@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Weekly technical blogs for CIT480 | Fall 2021
